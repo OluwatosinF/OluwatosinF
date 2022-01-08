@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OluwatosinF
-- 👀 I’m interested in robotic process automation 
+- 👀 I’m interested in building and implementing RPA bots to complete reptitive task and give back our time (to think creatively).
 - 🌱 I’m currently learning and implementing rpa via UiPath 
 -  (TBA) 🎥 of the 3 RPA bots in my repository (Only works within my current employer environment)
 - 💞️ I’m looking to collaborate on anything i can help
